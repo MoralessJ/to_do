@@ -8,7 +8,7 @@ const autoprefixer = require("gulp-autoprefixer");
 
 const paths = {
     styles: {
-        src: "src/css/**/*.css",
+        src: "src/output.css",
         dest: "dist/css",
     },
     scripts: {
